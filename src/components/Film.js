@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Film({name, url}){
+function Film({filmName, url}){
 
   return(
     <li>
